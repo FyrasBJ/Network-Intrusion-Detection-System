@@ -26,7 +26,7 @@ git clone https://github.com/FyrasBJ/Network-Intrusion-Detection-System.git
 2. Navigate to the project directory:
 cd Network-Intrusion-Detection-System/
 3. Modify the `rules.txt` file to define your custom rules for network intrusion detection.
-4.Replace `rules.txt` with the path to your custom rules file.
+4. Replace `rules.txt` with the path to your custom rules file.
 5. Monitor the console output or check the `traffic_logs.log` file for logged network activity and potential intrusion alerts.
 
 
