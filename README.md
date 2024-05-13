@@ -22,7 +22,7 @@ This project aims to provide a flexible and customizable solution for detecting 
 ### Usage
 
 1. Clone the repository to your local machine:
-git clone https://github.com/your_username/Network-Intrusion-Detection-System.git
+git clone https://github.com/FyrasBJ/Network-Intrusion-Detection-System.git
 2. Navigate to the project directory:
 cd Network-Intrusion-Detection-System/
 3. Modify the `rules.txt` file to define your custom rules for network intrusion detection.
